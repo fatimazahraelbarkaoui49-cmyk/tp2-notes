@@ -33,8 +33,9 @@ if (etudiants.length === 0) {
         console.log(ligne);
     }
 }
-/*console.log(10 == '10'); // true
+console.log(10 == '10'); // true
 console.log(10 === '10'); // false
 const { nom, note } = etudiants[0];
-console.log(`${nom} : ${note}/20`);*/
+console.log(`${nom} : ${note}/20`);
+
 
